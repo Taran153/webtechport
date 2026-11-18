@@ -16,7 +16,7 @@ a {
 }
 
 a:hover {
-  color: #9ebac8;
+  color: blue;
 }
 
 header {
@@ -68,7 +68,7 @@ nav a {
 }
 
 .small-title, .blue {
-  color: #9ebac8;
+  color: blue;
 }
 
 .small-title {
@@ -101,7 +101,7 @@ h1 {
   width: 185px;
   margin: 0;
   font-size: 18px;
-  font-color:blue;
+  color:blue;
 }
 
 .details div {
@@ -118,7 +118,7 @@ h1 {
 }
 
 .contact a {
-  color: #9ebac8;
+  color: blue;
   overflow-wrap: anywhere;
 }
 
