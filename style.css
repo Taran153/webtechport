@@ -90,16 +90,6 @@ h1 {
   color: #adb2b8;
 }
 
-.links {
-  display: flex;
-  gap: 20px;
-}
-
-.links a {
-  color: #9ebac8;
-  border-bottom: 1px solid #9ebac8;
-}
-
 .details {
   display: flex;
   gap: 35px;
@@ -111,6 +101,7 @@ h1 {
   width: 185px;
   margin: 0;
   font-size: 18px;
+  font-color:blue;
 }
 
 .details div {
