@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
 }
+
 body {
   margin: 0;
   background-color: #101113;
@@ -11,12 +12,12 @@ body {
 }
 
 a {
-  color: inherit;
+  color: blue;
   text-decoration: none;
 }
 
 a:hover {
-  color: white;
+  color: blue;
 }
 
 header {
@@ -43,8 +44,12 @@ nav {
 }
 
 nav a {
-  color: #adb2b8;
+  color: blue;
   font-size: 14px;
+}
+
+nav a:hover {
+  color: blue;
 }
 
 .container {
@@ -67,12 +72,16 @@ nav a {
   border-radius: 8px;
 }
 
-.bigtitle, .Green {
+.bigtitle, .Green, .small-title, .blue {
   color: #32CD32;
 }
 
 .bigtitle {
   font-size: 24px;
+}
+
+.small-title {
+  font-size: 13px;
 }
 
 h1 {
@@ -101,7 +110,7 @@ h1 {
   width: 185px;
   margin: 0;
   font-size: 18px;
-  color:#32CD32;
+  color: #32CD32;
 }
 
 .details div {
@@ -118,8 +127,12 @@ h1 {
 }
 
 .contact a {
-  color: #adb2b8;
+  color: blue;
   overflow-wrap: anywhere;
+}
+
+.contact a:hover {
+  color: blue;
 }
 
 @media (max-width: 600px) {
