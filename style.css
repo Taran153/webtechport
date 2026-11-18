@@ -16,7 +16,7 @@ a {
 }
 
 a:hover {
-  color: #32CD32;
+  color: white;
 }
 
 header {
@@ -118,7 +118,7 @@ h1 {
 }
 
 .contact a {
-  color: #32CD32;
+  color: ##adb2b8;
   overflow-wrap: anywhere;
 }
 
