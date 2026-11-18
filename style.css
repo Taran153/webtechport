@@ -16,7 +16,7 @@ a {
 }
 
 a:hover {
-  color: black;
+  color: blue;
 }
 
 header {
@@ -67,8 +67,8 @@ nav a {
   border-radius: 8px;
 }
 
-.small-title, .black {
-  color: black;
+.small-title, .blue {
+  color: blue;
 }
 
 .small-title {
@@ -101,7 +101,7 @@ h1 {
   width: 185px;
   margin: 0;
   font-size: 18px;
-  color:black;
+  color:blue;
 }
 
 .details div {
@@ -118,7 +118,7 @@ h1 {
 }
 
 .contact a {
-  color: black;
+  color: blue;
   overflow-wrap: anywhere;
 }
 
