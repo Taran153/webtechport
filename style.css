@@ -134,7 +134,10 @@ h1 {
 .contact a:hover {
   color: blue;
 }
-
+.contact img {
+  width: 19px;
+  height: 19px;
+}
 @media (max-width: 600px) {
   .topbar, .intro, .details {
     flex-direction: column;
