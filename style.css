@@ -17,7 +17,7 @@ a {
 }
 
 a:hover {
-  color: #a2c8e3;
+  color: red;
 }
 
 header {
@@ -127,12 +127,12 @@ h1 {
 }
 
 .contact a {
-  color: blue;
+  color: white;
   overflow-wrap: anywhere;
 }
 
 .contact a:hover {
-  color: blue;
+  color:red;
 }
 .contact img {
   width: 19px;
