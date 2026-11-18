@@ -67,11 +67,11 @@ nav a {
   border-radius: 8px;
 }
 
-.small-title, .blue {
+.bigtitle, .blue {
   color: blue;
 }
 
-.small-title {
+.bigtitle {
   font-size: 13px;
 }
 
