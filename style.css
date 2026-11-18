@@ -16,7 +16,7 @@ a {
 }
 
 a:hover {
-  color: blue;
+  color: #32CD32;
 }
 
 header {
@@ -101,7 +101,7 @@ h1 {
   width: 185px;
   margin: 0;
   font-size: 18px;
-  color:blue;
+  color:#32CD32;
 }
 
 .details div {
@@ -118,7 +118,7 @@ h1 {
 }
 
 .contact a {
-  color: blue;
+  color: #32CD32;
   overflow-wrap: anywhere;
 }
 
