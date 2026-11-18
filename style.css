@@ -67,12 +67,12 @@ nav a {
   border-radius: 8px;
 }
 
-.bigtitle, .blue {
-  color: blue;
+.bigtitle, .Green {
+  color: green;
 }
 
 .bigtitle {
-  font-size: 13px;
+  font-size: 24px;
 }
 
 h1 {
