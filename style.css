@@ -185,3 +185,23 @@ h1 {
     flex-wrap: wrap;
   }
 }
+.section-box {
+  background-color: #17191c;
+  border: 1px solid #30343a;
+  border-radius: 8px;
+  padding: 20px 24px;
+}
+
+.box-list {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.box-list .section-box {
+  flex: none;
+}
+
+.section-box p:last-child {
+  margin-bottom: 0;
+}
